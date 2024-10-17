@@ -15,7 +15,7 @@
     </head>
     <body>
         <div class="">
-        <form action="login_html.html" method="post">
+        <form action="Login" method="post">
         <div class="">
           <label for="uname"><b>Username</b></label>
           <input type="text" placeholder="Enter Username" name="uname" required>
